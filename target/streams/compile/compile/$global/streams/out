@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\repos\Scala\jobst\firstremotes\src\main\scala\actor\BankAccout.scala:37:18: method initializedReceive overrides nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    override def initializedReceive(iban: String): Receive = {[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
